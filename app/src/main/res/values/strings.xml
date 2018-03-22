@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout Copy</string>
+    <string name="colorAccent">#FF4081</string>
+    <color name="colorAccent2">#FF4081</color>
+</resources>
